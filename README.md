@@ -34,7 +34,7 @@ A **repo** is a **project folder on the internet** that holds everything for one
 | **Fork** (noun) | **Your fork** = **your own copy of the course folder** on github.com. You work there; the instructor’s original stays unchanged. |
 | **Codespace** | A **classroom computer in the browser** that already has your repo open — you run notebooks there. |
 | **Save** (in the notebook) | Keeps your edits on the **Codespace** while it is open (`File → Save`) — like saving a Word doc on the classroom computer you are using. |
-| **Commit**save and rename | **Stamp this version on the Codespace** — a named snapshot in Git history (e.g. “Finished Week 2 plots”). Still on the Codespace until you Push. |
+| **Commit**=save and rename | **Stamp this version on the Codespace** — a named snapshot in Git history (e.g. “Finished Week 2 plots”). Still on the Codespace until you Push. |
 | **Push** | **Send those stamped versions to your fork (your own copy of the course folder) on github.com** so they are stored online. |
 
 
